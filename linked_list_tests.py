@@ -1,4 +1,6 @@
 import unittest
+from typing import *
+from dataclasses import dataclass
 from linked_list import *
 
 class TestList(unittest.TestCase):
