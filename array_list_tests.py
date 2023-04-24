@@ -1,4 +1,7 @@
 import unittest
+import numpy as nd
+from typing import *
+from dataclasses import dataclass
 from array_list import *
 
 class TestList(unittest.TestCase):
